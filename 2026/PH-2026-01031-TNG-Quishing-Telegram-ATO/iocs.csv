@@ -1,0 +1,14 @@
+type,value,description,tlp
+url,hxxps://bantuan-tng[.]app-nf[.]com/gf?utm_campaign=brand_awareness_2026&utm_creative_format=mobile_interstitial&device=desktop&gclid=GL_40716e71010b176b1867b9b1&variant_id=B&utm_source_platform=manual_gen&lang=id&utm_content=video_short&utm_term=beli_sekarang_diskon&utm_id=CAMP_823&session_id=uj8a6acbba5958,Primary quishing payload embedded in Threads QR post,TLP:CLEAR
+domain,bantuan-tng[.]app-nf[.]com,Frontend typosquatting subdomain (Cloudflare-proxied),TLP:CLEAR
+domain,app-nf[.]com,Root frontend domain registered 2026-11-01 via Spaceship Inc.,TLP:CLEAR
+domain,mobile20[.]my[.]id,Backend campaign cluster domain registered 2026-05-11 via PT JC Indonesia,TLP:CLEAR
+domain,reward-h3[.]mobile20[.]my[.]id,PhishHunt enrichment cluster subdomain,TLP:CLEAR
+domain,reward-h5[.]mobile20[.]my[.]id,CertSpotter SAN cluster subdomain,TLP:CLEAR
+domain,reward-h7[.]mobile20[.]my[.]id,PhishHunt enrichment cluster subdomain,TLP:CLEAR
+domain,reward-h9[.]mobile20[.]my[.]id,PhishHunt enrichment cluster subdomain,TLP:CLEAR
+domain,reward-h10[.]mobile20[.]my[.]id,PhishHunt enrichment cluster subdomain,TLP:CLEAR
+domain,bestincomeaffiliate[.]com,Co-hosted domain sharing Let's Encrypt SAN certificate,TLP:CLEAR
+domain,kontenkupro[.]com,Co-hosted domain sharing Let's Encrypt SAN certificate,TLP:CLEAR
+ipv4,103[.]219[.]251[.]170,Backend origin server (AS135444 PT Ikubaru Indonesia / anoa.kencang.com),TLP:CLEAR
+social_account,https://www.threads.com/@sitt.ifatimahh,Initial distribution account on Meta Threads,TLP:CLEAR
