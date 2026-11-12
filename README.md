@@ -9,4 +9,4 @@ A collection of hands-on threat intelligence investigations, infrastructure enri
 
 | Case ID | Date | Target Brand (OPSEC) | Attack Vector | Status | Write-Up |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| `PH-2026-01031` | 2026-11-13 | Blue Wallet (Touch 'n Go) | Quishing → Telegram ATO | Reported | [View Report](2026/PH-2026-01031-TNG-Quishing-Telegram-ATO/README.md) |
+| `PH-2026-01031` | 2026-11-13 | E Wallet (Touch 'n Go) | Quishing → Telegram ATO | Reported | [View Report](2026/PH-2026-01031-TNG-Quishing-Telegram-ATO/README.md) |
