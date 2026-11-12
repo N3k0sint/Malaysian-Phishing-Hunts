@@ -1,4 +1,4 @@
-# [PH-2026-01031] Quishing Campaign Leveraging Blue Wallet "Money Packet" Lure for Telegram Account Takeover
+# [PH-2026-01031] Quishing Campaign Leveraging E-Wallet "Money Packet" Lure for Telegram Account Takeover
 
 * **PhishHunt Case ID:** `PH-2026-01031`
 * **Status:** Reported (First Submitter)
